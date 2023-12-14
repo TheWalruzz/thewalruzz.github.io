@@ -114,6 +114,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Bluesky */
+.button.button-bluesky {
+  color: #000000;
+  background-color: #f3f9ff;
+  border: 1px solid #212121;
+}
+.button.button-bluesky:hover,
+.button.button-bluesky:focus {
+  filter: brightness(90%);
+}
+
 /* Buy Me a Coffee */
 .button.button-coffee {
   color: #100a26;
@@ -157,7 +168,7 @@ button:hover,
 /* Etsy */
 .button.button-etsy {
   color: #ffffff;
-  background-color: #F45800;
+  background-color: #f45800;
 }
 .button.button-etsy:hover,
 .button.button-etsy:focus {
@@ -244,7 +255,7 @@ button:hover,
 
 /* Google Play Store */
 .button.button-playstore {
-  color: #FFFFFF;
+  color: #ffffff;
   background-color: #000000;
 }
 .button.button-playstore:hover,
@@ -295,7 +306,7 @@ button:hover,
 /* Ko-fi */
 .button.button-ko-fi {
   color: #ffffff;
-  background-color: #13C3FF;
+  background-color: #13c3ff;
 }
 .button.button-ko-fi:hover,
 .button.button-ko-fi:focus {
@@ -325,7 +336,7 @@ button:hover,
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
-  background-color: #17063B;
+  background-color: #17063b;
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
@@ -358,7 +369,7 @@ button:hover,
 /* OnlyFans */
 .button.button-onlyfans {
   color: #ffffff;
-  background-color: #00AEEF;
+  background-color: #00aeef;
 }
 .button.button-onlyfans:hover,
 .button.button-onlyfans:focus {
@@ -584,7 +595,7 @@ button:hover,
 /* Venmo */
 .button.button-venmo {
   color: #ffffff;
-  background-color: #008CFF;
+  background-color: #008cff;
 }
 .button.button-venmo:hover,
 .button.button-venmo:focus {
