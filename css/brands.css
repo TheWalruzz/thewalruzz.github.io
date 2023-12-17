@@ -532,6 +532,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Threads */
+.button.button-threads {
+  color: #ffffff;
+  background-color: #000000;
+  border: 1px solid #ffffff;
+}
+.button.button-threads:hover,
+.button.button-threads:focus {
+  filter: brightness(90%);
+}
+
 /* TikTok */
 .button.button-tiktok {
   color: #ffffff;
